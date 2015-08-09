@@ -7,6 +7,5 @@ Router.configure({
   notFoundTemplate:"notFoundTemplate",
   loadingTemplate:"loadingTemplate",
   yieldRegions:{
-
   }
 });
