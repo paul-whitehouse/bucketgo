@@ -224,8 +224,8 @@ Caravans.insert({
           }
         ],
         distToNearestBeach: 0.5, // de-normalised for search
-        nearestAttractions: [],
-        nearestPubs: [],
+        nearestAttractions: [], // Future development
+        nearestPubs: [], // Future development
       },
       images: [
         {
