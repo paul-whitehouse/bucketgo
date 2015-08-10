@@ -210,7 +210,7 @@ Caravans.insert({
         postCode: 'TR8 5PW',
         latitude: 50.3852220954649,
         longitude: -5.12973073182378,
-        area: '001', // Cornwall
+        region: regionId,
         nearestTown: nearestTownId, // Newquay
         distToTown: 12.4,
         nearestBeaches: [
