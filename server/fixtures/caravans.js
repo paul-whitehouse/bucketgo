@@ -4,7 +4,7 @@
 //     created: new Date(),
 //     ownerId: 10292,
 //     location: {
-//       postCode: '',
+//       postCode: 'TR8 5PW',
 //       latitude: 12.344,
 //       longitude: 123.33,
 //       area: '001', // Cornwall
