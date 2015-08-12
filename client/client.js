@@ -1,5 +1,5 @@
 // Subscribe to Collections
-// Meteor.subscribe()
+Meteor.subscribe('caravans');
 
 // Router configuration
 Router.configure({
